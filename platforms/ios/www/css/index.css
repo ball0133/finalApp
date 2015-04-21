@@ -32,7 +32,7 @@ ul.tabs {
     bottom: 0;
     background-color: #fff;
     border-top: 1px solid #c9ccd1;
-    z-index: 20;
+    z-index: 5;
 }
 
 .tabs li.tab {
